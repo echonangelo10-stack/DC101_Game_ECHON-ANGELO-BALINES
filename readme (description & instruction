@@ -1,0 +1,16 @@
+Game Title
+Memory Match Challenge
+=======================
+Game Description
+Memory Match Challenge is a simple and fun browser‑based puzzle game built with HTML, CSS, and JavaScript.
+The goal is to flip cards, remember their positions, and find all matching pairs.
+This project helps beginners strengthen their front‑end development skills while learning how to use GitHub and version control.
+The game runs directly in the browser—no installations required—and can be published using GitHub Pages for a live online demo.
+========================
+How to Play
+• Click any card to flip it.
+• Flip a second card to try to find a matching pair.
+• If the cards match, they remain revealed.
+• If they don’t match, they will flip back after a short delay.
+• Continue until all pairs are matched.
+• Press the “Restart Game” button to play again.
